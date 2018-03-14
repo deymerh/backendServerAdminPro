@@ -1,0 +1,1 @@
+module.exports.SEED = 'token-1227-generado';
